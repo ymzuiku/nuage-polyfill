@@ -1,0 +1,14 @@
+{
+  "name": "@nuage/polyfill",
+  "version": "1.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymzuiku/nuage-polyfill.git"
+  },
+  "bugs": {
+    "url": "git+https://github.com/ymzuiku/nuage-polyfill.git"
+  },
+  "homepage": "git+https://github.com/ymzuiku/nuage-polyfill.git"
+}
